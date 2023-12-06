@@ -8,4 +8,5 @@ Neste projeto, realizei a integração de uma API utilizando JavaScript, aplique
 link:https://pokedex-html-css-js-puro-zoj3.vercel.app/
 
 
-![image](https://github.com/GabrielBorges-dev/Pokedex-html-css-js-Puro/assets/69394205/af71eb02-e89a-4184-abb0-c103c4e05c33)
+![image](https://github.com/GabrielBorges-dev/Pokedex-html-css-js-Puro/assets/69394205/4184b24f-2e64-4398-a75d-8fa1f284039d)
+
